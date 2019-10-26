@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/grid/SpacingGrid.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/lab": "4.0.0-alpha.29",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
